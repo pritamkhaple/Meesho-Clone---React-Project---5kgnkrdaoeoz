@@ -7,14 +7,14 @@ import LocationOnOutlinedIcon from "@mui/icons-material/LocationOnOutlined";
 import "./address.css";
 // <-------array data default value -------->
 let data = [
-  "Sakshi",
-  987654321,
+  "Pritam",
+  &298585851,
   "B-20, XYZ Complex",
-  "roorki Road",
-  250110,
-  "meerut",
-  "Uttarpardesh",
-  "Near Busstand",
+  "HUdco",
+  4310010,
+  "Aurangabad",
+  "Maharashtra",
+  "Near TV center chowk",
 ];
 export default function Address() {
   let [inp, setInp] = React.useState(data);
