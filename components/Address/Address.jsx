@@ -7,11 +7,11 @@ import LocationOnOutlinedIcon from "@mui/icons-material/LocationOnOutlined";
 import "./address.css";
 // <-------array data default value -------->
 let data = [
-  "Pritam",
-  987654321,
+  "YourName",
+  123456789,
   "B-20, XYZ Complex",
-  "roorki Road",
-  250110,
+  "jalna Road",
+  431001,
   "Aurangabad",
   "Maharashtra",
   "Near Busstand",
